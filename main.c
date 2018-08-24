@@ -31,6 +31,6 @@ int main()
         }
     }
     promedio = acumulador/i;
-    printf("EL MAXIMO ES: %d\nY EL MINIMO ES: %d\nEL dddPROMEDIO ES: %.2f",max,min,promedio);
+    printf("EL MAXIMO ES: %d\nY EL MINIMO ES: %d\nEL dddPROMEDIO ES: %.1f",max,min,promedio);
     return 0;
 }
